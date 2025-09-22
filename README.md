@@ -44,4 +44,5 @@ Open the notebook and run all cells sequentially to reproduce the analysis and c
 
 -----
 
+## Personal Insight
 Executing this analysis from raw data ingestion to final recommendations within an afternoon underscored the efficiency of a **robust, reproducible data pipeline**. The project confirmed the power of leveraging core Python libraries like pandas and scikit-learn to quickly yield critical insights for both **supply chain optimisation** and **revenue strategy** in a large-scale retail environment.
